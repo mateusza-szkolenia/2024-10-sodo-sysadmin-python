@@ -4,5 +4,7 @@
 Zadanie 1
 
 Napisać program podający uptime systemu w godzinach, z dokładnością do dziesiątej części.
+
+Użyć danych z /proc/uptime
 """
 
