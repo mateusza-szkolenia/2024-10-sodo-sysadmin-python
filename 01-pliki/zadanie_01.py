@@ -14,7 +14,12 @@ zawartosc = plik.read()
 
 a, b = zawartosc.split(" ")
 
+czas_w_sek = int(float(a))
+
 czas_w_godz = float(a) / 3600
 
-print(czas_w_godz)
+godz, minu, sek = czas_w_sek // 3600, (czas_w_sek % 3600) // 60, czas_w_sek % 60
 
+print(f"{czas_w_godz:.1f}")
+
+print(f"{godz}:{minu}:{sek}")
