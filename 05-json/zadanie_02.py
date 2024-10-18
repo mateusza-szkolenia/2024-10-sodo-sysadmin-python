@@ -4,8 +4,11 @@ DANE = "duze.json"
 
 EARTH_RADIUS_KM = 6371.0
 
+import argparse
 import json
 from math import radians, sin, cos, asin, sqrt
+from pprint import pprint
+import sys
 
 class LotniskoNotFound(Exception):
     """Nie znaleziono lotniska"""
@@ -73,3 +76,23 @@ def lotniska_w_promieniu(lotnisko: dict, promien: float) -> list[dict]:
     return list(filter(sprawdzacz(lotnisko, promien), LOTNISKA))
 
 LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))
+
+def parse_args(args: list[str]) -> "Namespace":
+    parser = argparse.ArgumentParser(description="Wyszukiwarka lotnisk")
+    parser.add_argument("LOTNISKO1")
+    parser.add_argument("--radius", "-r", required=False, type=float)
+    return parser.parse_args(args[1:])
+    
+def main(args: list[str]):
+    p_args = parse_args(args)
+    lotnisko = znajdz_lotnisko(p_args.LOTNISKO1)
+    if p_args.radius is not None:
+        lotniska = lotniska_w_promieniu(lotnisko, p_args.radius)
+        for lot in lotniska:
+            print(f'{lot['name']}')
+
+    pprint(lotnisko)
+
+if __name__ == '__main__':
+    main(sys.argv)
+
