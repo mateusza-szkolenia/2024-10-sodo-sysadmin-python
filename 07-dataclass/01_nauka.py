@@ -32,6 +32,19 @@ class Lotnisko:
 
         return nowe_lotnisko
 
+    @property    
+    def sygnatura(self):
+        return f'{self.iata_code} {self.icao_code} {self.name}'
+
+    @sygnatura.setter
+    def sygnatura(self, wartosc: str):
+        iata, icao, miasto = wartosc.split(" ")
+        self.iata_code = iata
+        self.icao_code = icao
+        self.municipality = miasto
+        # FIXME
+
+
 dict_lot =   {
     "name": "Warsaw Chopin Airport",
     "continent": "EU",
