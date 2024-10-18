@@ -1,0 +1,22 @@
+{
+    "wynik": "OK",
+    "pomiary": [
+        {
+            "data": "2020-01-01",
+            "pomiar": 20.0
+        },
+        {
+            "data": "2020-01-02",
+            "pomiar": 20.0,
+            "skip": true,
+            "comment": null
+        },
+        {
+            "data": "2020-01-03",
+            "pomiar": 20.0,
+            "skip": false
+
+        }
+    ]
+
+}
