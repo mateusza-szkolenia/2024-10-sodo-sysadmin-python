@@ -27,8 +27,8 @@ if __name__ == "__main__":
         lotniska = json.load(plik)
 
     duze_lotniska = [moje_lotnisko(lotnisko)
-                    for lotnisko in lotniska
-                    if czy_duze(lotnisko)]
+                     for lotnisko in lotniska
+                     if czy_duze(lotnisko)]
 
     with open("duze.json", "w") as plik:
         json.dump(duze_lotniska, plik, indent=2)

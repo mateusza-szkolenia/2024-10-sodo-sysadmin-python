@@ -22,3 +22,8 @@ def haversine(coords1: tuple[float, float], coords2: tuple[float, float]) -> flo
     c = 2 * asin(sqrt(a)) 
     r = EARTH_RADIUS_KM
     return c * r
+
+def odleglosc_miedzy_lotniskami(lotnisko1: dict, lotnisko2: dict) -> float:
+    """Odległość między lotniskami"""
+
+    return haversine(lotnisko1['gps'], lotnisko2['gps'])
