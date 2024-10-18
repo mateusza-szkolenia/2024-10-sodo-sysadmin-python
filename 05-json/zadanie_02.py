@@ -54,12 +54,22 @@ def znajdz_lotnisko(nazwa: str) -> dict:
 def lotniska_w_promieniu(lotnisko: dict, promien: float) -> list[dict]:
     """Znajdź lotniska w danym promieniu"""
 
-    wynik = []
+    def sprawdzacz(skad: dict, jak_daleko: float):
+        def czy_w_promieniu(inne_lotnisko: dict) -> bool:
+            odleglosc = odleglosc_miedzy_lotniskami(skad, inne_lotnisko)
+            return odleglosc < jak_daleko
+        return czy_w_promieniu
 
-    for spr_lot in LOTNISKA:
-        odleglosc = odleglosc_miedzy_lotniskami(lotnisko, spr_lot)
-        if odleglosc <= promien:
-            wynik.append(spr_lot)
-    return wynik
+    # def czy_w_promieniu(inne_lotnisko: dict) -> bool:
+    #     odleglosc = odleglosc_miedzy_lotniskami(lotnisko, inne_lotnisko)
+    #     return odleglosc < promien
+    
+    # return [spr_lot
+    #         for spr_lot in LOTNISKA
+    #         if czy_w_promieniu(spr_lot)]
+
+    # return list(filter(czy_w_promieniu, LOTNISKA))
+
+    return list(filter(sprawdzacz(lotnisko, promien), LOTNISKA))
 
 LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))
