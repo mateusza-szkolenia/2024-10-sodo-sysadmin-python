@@ -71,3 +71,9 @@ def test_odleglosc_miedzy_lotniskami_WAW_GDN():
     odleglosc = zadanie_02.odleglosc_miedzy_lotniskami(lot1, lot2)
 
     assert 300.0 < odleglosc < 500.0
+
+def test_znajdz_lotnisko_WAW():
+    lotnisko = zadanie_02.znajdz_lotnisko("WAW")
+
+    assert isinstance(lotnisko, dict)
+    assert lotnisko['iata_code'] == "WAW"

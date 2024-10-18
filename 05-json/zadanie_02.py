@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
+DANE = "duze.json"
+
 EARTH_RADIUS_KM = 6371.0
 
+import json
 from math import radians, sin, cos, asin, sqrt
 
 def haversine(coords1: tuple[float, float], coords2: tuple[float, float]) -> float:
@@ -27,3 +30,9 @@ def odleglosc_miedzy_lotniskami(lotnisko1: dict, lotnisko2: dict) -> float:
     """Odległość między lotniskami"""
 
     return haversine(lotnisko1['gps'], lotnisko2['gps'])
+
+def znajdz_lotnisko(nazwa: str) -> dict:
+    """Znajdź w "bazie danych" lotnisko o danym kodzie"""
+
+LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))
+
