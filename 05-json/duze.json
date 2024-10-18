@@ -1,0 +1,3266 @@
+[
+  {
+    "name": "Honiara International Airport",
+    "continent": "OC",
+    "iso_country": "SB",
+    "municipality": "Honiara",
+    "iata_code": "HIR",
+    "icao_code": "AGGH",
+    "gps": [
+      -9.428,
+      160.054993
+    ]
+  },
+  {
+    "name": "Port Moresby Jacksons International Airport",
+    "continent": "OC",
+    "iso_country": "PG",
+    "municipality": "Port Moresby",
+    "iata_code": "POM",
+    "icao_code": "AYPY",
+    "gps": [
+      -9.443380355834961,
+      147.22000122070312
+    ]
+  },
+  {
+    "name": "Keflavik International Airport",
+    "continent": "EU",
+    "iso_country": "IS",
+    "municipality": "Reykjav\u00edk",
+    "iata_code": "KEF",
+    "icao_code": "BIKF",
+    "gps": [
+      63.985001,
+      -22.6056
+    ]
+  },
+  {
+    "name": "Edmonton International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Edmonton",
+    "iata_code": "YEG",
+    "icao_code": "CYEG",
+    "gps": [
+      53.3097,
+      -113.580002
+    ]
+  },
+  {
+    "name": "Halifax / Stanfield International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Halifax",
+    "iata_code": "YHZ",
+    "icao_code": "CYHZ",
+    "gps": [
+      44.8807983398,
+      -63.5085983276
+    ]
+  },
+  {
+    "name": "Ottawa Macdonald-Cartier International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Ottawa",
+    "iata_code": "YOW",
+    "icao_code": "CYOW",
+    "gps": [
+      45.322498,
+      -75.669197
+    ]
+  },
+  {
+    "name": "Quebec Jean Lesage International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Quebec",
+    "iata_code": "YQB",
+    "icao_code": "CYQB",
+    "gps": [
+      46.7911,
+      -71.393303
+    ]
+  },
+  {
+    "name": "Montreal / Pierre Elliott Trudeau International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Montr\u00e9al",
+    "iata_code": "YUL",
+    "icao_code": "CYUL",
+    "gps": [
+      45.467837,
+      -73.742294
+    ]
+  },
+  {
+    "name": "Vancouver International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Vancouver",
+    "iata_code": "YVR",
+    "icao_code": "CYVR",
+    "gps": [
+      49.193901062,
+      -123.183998108
+    ]
+  },
+  {
+    "name": "Winnipeg / James Armstrong Richardson International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Winnipeg",
+    "iata_code": "YWG",
+    "icao_code": "CYWG",
+    "gps": [
+      49.909999847399995,
+      -97.2398986816
+    ]
+  },
+  {
+    "name": "Calgary International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Calgary",
+    "iata_code": "YYC",
+    "icao_code": "CYYC",
+    "gps": [
+      51.118822,
+      -114.009933
+    ]
+  },
+  {
+    "name": "St. John's International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "St. John's",
+    "iata_code": "YYT",
+    "icao_code": "CYYT",
+    "gps": [
+      47.618599,
+      -52.7519
+    ]
+  },
+  {
+    "name": "Toronto Lester B. Pearson International Airport",
+    "continent": "NA",
+    "iso_country": "CA",
+    "municipality": "Toronto",
+    "iata_code": "YYZ",
+    "icao_code": "CYYZ",
+    "gps": [
+      43.6772,
+      -79.6306
+    ]
+  },
+  {
+    "name": "Houari Boumediene Airport",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "municipality": "Algiers",
+    "iata_code": "ALG",
+    "icao_code": "DAAG",
+    "gps": [
+      36.693886,
+      3.214531
+    ]
+  },
+  {
+    "name": "(Duplicate}CGN EDDK",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": null,
+    "iata_code": null,
+    "icao_code": "DE-0533",
+    "gps": [
+      0.009,
+      0.005
+    ]
+  },
+  {
+    "name": "Kotoka International Airport",
+    "continent": "AF",
+    "iso_country": "GH",
+    "municipality": "Accra",
+    "iata_code": "ACC",
+    "icao_code": "DGAA",
+    "gps": [
+      5.605189800262451,
+      -0.16678600013256073
+    ]
+  },
+  {
+    "name": "Nnamdi Azikiwe International Airport",
+    "continent": "AF",
+    "iso_country": "NG",
+    "municipality": "Abuja",
+    "iata_code": "ABV",
+    "icao_code": "DNAA",
+    "gps": [
+      9.00679,
+      7.26317
+    ]
+  },
+  {
+    "name": "Murtala Muhammed International Airport",
+    "continent": "AF",
+    "iso_country": "NG",
+    "municipality": "Lagos",
+    "iata_code": "LOS",
+    "icao_code": "DNMM",
+    "gps": [
+      6.5773701667785645,
+      3.321160078048706
+    ]
+  },
+  {
+    "name": "Diori Hamani International Airport",
+    "continent": "AF",
+    "iso_country": "NE",
+    "municipality": "Niamey",
+    "iata_code": "NIM",
+    "icao_code": "DRRN",
+    "gps": [
+      13.4815,
+      2.18361
+    ]
+  },
+  {
+    "name": "Tunis Carthage International Airport",
+    "continent": "AF",
+    "iso_country": "TN",
+    "municipality": "Tunis",
+    "iata_code": "TUN",
+    "icao_code": "DTTA",
+    "gps": [
+      36.851002,
+      10.2272
+    ]
+  },
+  {
+    "name": "Brussels Airport",
+    "continent": "EU",
+    "iso_country": "BE",
+    "municipality": "Zaventem",
+    "iata_code": "BRU",
+    "icao_code": "EBBR",
+    "gps": [
+      50.901402,
+      4.48444
+    ]
+  },
+  {
+    "name": "Berlin Brandenburg Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Berlin",
+    "iata_code": "BER",
+    "icao_code": "EDDB",
+    "gps": [
+      52.362247,
+      13.500672
+    ]
+  },
+  {
+    "name": "Frankfurt Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Frankfurt am Main",
+    "iata_code": "FRA",
+    "icao_code": "EDDF",
+    "gps": [
+      50.030241,
+      8.561096
+    ]
+  },
+  {
+    "name": "Hamburg Helmut Schmidt Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Hamburg",
+    "iata_code": "HAM",
+    "icao_code": "EDDH",
+    "gps": [
+      53.630402,
+      9.98823
+    ]
+  },
+  {
+    "name": "Cologne Bonn Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "K\u00f6ln (Cologne)",
+    "iata_code": "CGN",
+    "icao_code": "EDDK",
+    "gps": [
+      50.865898,
+      7.14274
+    ]
+  },
+  {
+    "name": "D\u00fcsseldorf Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "D\u00fcsseldorf",
+    "iata_code": "DUS",
+    "icao_code": "EDDL",
+    "gps": [
+      51.289501,
+      6.76678
+    ]
+  },
+  {
+    "name": "Munich Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Munich",
+    "iata_code": "MUC",
+    "icao_code": "EDDM",
+    "gps": [
+      48.353802,
+      11.7861
+    ]
+  },
+  {
+    "name": "Nuremberg Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Nuremberg",
+    "iata_code": "NUE",
+    "icao_code": "EDDN",
+    "gps": [
+      49.498699,
+      11.078056
+    ]
+  },
+  {
+    "name": "Leipzig/Halle Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Schkeuditz",
+    "iata_code": "LEJ",
+    "icao_code": "EDDP",
+    "gps": [
+      51.420657,
+      12.232705
+    ]
+  },
+  {
+    "name": "Stuttgart Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Stuttgart",
+    "iata_code": "STR",
+    "icao_code": "EDDS",
+    "gps": [
+      48.689899,
+      9.22196
+    ]
+  },
+  {
+    "name": "Hannover Airport",
+    "continent": "EU",
+    "iso_country": "DE",
+    "municipality": "Hannover",
+    "iata_code": "HAJ",
+    "icao_code": "EDDV",
+    "gps": [
+      52.461102,
+      9.68508
+    ]
+  },
+  {
+    "name": "Lennart Meri Tallinn Airport",
+    "continent": "EU",
+    "iso_country": "EE",
+    "municipality": "Tallinn",
+    "iata_code": "TLL",
+    "icao_code": "EETN",
+    "gps": [
+      59.413246,
+      24.83264
+    ]
+  },
+  {
+    "name": "Helsinki Vantaa Airport",
+    "continent": "EU",
+    "iso_country": "FI",
+    "municipality": "Helsinki",
+    "iata_code": "HEL",
+    "icao_code": "EFHK",
+    "gps": [
+      60.318363,
+      24.963341
+    ]
+  },
+  {
+    "name": "Belfast International Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Belfast",
+    "iata_code": "BFS",
+    "icao_code": "EGAA",
+    "gps": [
+      54.6575012207,
+      -6.2158298492399995
+    ]
+  },
+  {
+    "name": "Birmingham International Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Birmingham",
+    "iata_code": "BHX",
+    "icao_code": "EGBB",
+    "gps": [
+      52.453899,
+      -1.74803
+    ]
+  },
+  {
+    "name": "Manchester Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Manchester",
+    "iata_code": "MAN",
+    "icao_code": "EGCC",
+    "gps": [
+      53.349375,
+      -2.279521
+    ]
+  },
+  {
+    "name": "London Luton Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Luton, Bedfordshire",
+    "iata_code": "LTN",
+    "icao_code": "EGGW",
+    "gps": [
+      51.874699,
+      -0.368333
+    ]
+  },
+  {
+    "name": "London Gatwick Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Gatwick, Surrey",
+    "iata_code": "LGW",
+    "icao_code": "EGKK",
+    "gps": [
+      51.148771,
+      -0.192089
+    ]
+  },
+  {
+    "name": "London Heathrow Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "London",
+    "iata_code": "LHR",
+    "icao_code": "EGLL",
+    "gps": [
+      51.4706,
+      -0.461941
+    ]
+  },
+  {
+    "name": "Glasgow International Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Paisley, Renfrewshire",
+    "iata_code": "GLA",
+    "icao_code": "EGPF",
+    "gps": [
+      55.871899,
+      -4.43306
+    ]
+  },
+  {
+    "name": "Edinburgh Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "Edinburgh",
+    "iata_code": "EDI",
+    "icao_code": "EGPH",
+    "gps": [
+      55.950145,
+      -3.372288
+    ]
+  },
+  {
+    "name": "London Stansted Airport",
+    "continent": "EU",
+    "iso_country": "GB",
+    "municipality": "London",
+    "iata_code": "STN",
+    "icao_code": "EGSS",
+    "gps": [
+      51.884998,
+      0.235
+    ]
+  },
+  {
+    "name": "Amsterdam Airport Schiphol",
+    "continent": "EU",
+    "iso_country": "NL",
+    "municipality": "Amsterdam",
+    "iata_code": "AMS",
+    "icao_code": "EHAM",
+    "gps": [
+      52.308601,
+      4.76389
+    ]
+  },
+  {
+    "name": "Eindhoven Airport",
+    "continent": "EU",
+    "iso_country": "NL",
+    "municipality": "Eindhoven",
+    "iata_code": "EIN",
+    "icao_code": "EHEH",
+    "gps": [
+      51.4500999451,
+      5.37452983856
+    ]
+  },
+  {
+    "name": "Ezhou Huahu Airport",
+    "continent": "AS",
+    "iso_country": "CN",
+    "municipality": "Ezhou",
+    "iata_code": "EHU",
+    "icao_code": "EHU",
+    "gps": [
+      30.341178,
+      115.03926
+    ]
+  },
+  {
+    "name": "Dublin Airport",
+    "continent": "EU",
+    "iso_country": "IE",
+    "municipality": "Dublin",
+    "iata_code": "DUB",
+    "icao_code": "EIDW",
+    "gps": [
+      53.428713,
+      -6.262121
+    ]
+  },
+  {
+    "name": "Shannon Airport",
+    "continent": "EU",
+    "iso_country": "IE",
+    "municipality": "Shannon",
+    "iata_code": "SNN",
+    "icao_code": "EINN",
+    "gps": [
+      52.702,
+      -8.92482
+    ]
+  },
+  {
+    "name": "Billund Airport",
+    "continent": "EU",
+    "iso_country": "DK",
+    "municipality": "Billund",
+    "iata_code": "BLL",
+    "icao_code": "EKBI",
+    "gps": [
+      55.740335,
+      9.157019
+    ]
+  },
+  {
+    "name": "Copenhagen Kastrup Airport",
+    "continent": "EU",
+    "iso_country": "DK",
+    "municipality": "Copenhagen",
+    "iata_code": "CPH",
+    "icao_code": "EKCH",
+    "gps": [
+      55.617900848389,
+      12.656000137329
+    ]
+  },
+  {
+    "name": "Luxembourg-Findel International Airport",
+    "continent": "EU",
+    "iso_country": "LU",
+    "municipality": "Luxembourg",
+    "iata_code": "LUX",
+    "icao_code": "ELLX",
+    "gps": [
+      49.6233333,
+      6.2044444
+    ]
+  },
+  {
+    "name": "Bergen Airport, Flesland",
+    "continent": "EU",
+    "iso_country": "NO",
+    "municipality": "Bergen",
+    "iata_code": "BGO",
+    "icao_code": "ENBR",
+    "gps": [
+      60.2934,
+      5.21814
+    ]
+  },
+  {
+    "name": "Oslo Airport, Gardermoen",
+    "continent": "EU",
+    "iso_country": "NO",
+    "municipality": "Oslo",
+    "iata_code": "OSL",
+    "icao_code": "ENGM",
+    "gps": [
+      60.193901,
+      11.1004
+    ]
+  },
+  {
+    "name": "Troms\u00f8 Airport, Langnes",
+    "continent": "EU",
+    "iso_country": "NO",
+    "municipality": "Troms\u00f8",
+    "iata_code": "TOS",
+    "icao_code": "ENTC",
+    "gps": [
+      69.683296,
+      18.9189
+    ]
+  },
+  {
+    "name": "Trondheim Airport, V\u00e6rnes",
+    "continent": "EU",
+    "iso_country": "NO",
+    "municipality": "Trondheim",
+    "iata_code": "TRD",
+    "icao_code": "ENVA",
+    "gps": [
+      63.457802,
+      10.924
+    ]
+  },
+  {
+    "name": "Stavanger Airport, Sola",
+    "continent": "EU",
+    "iso_country": "NO",
+    "municipality": "Stavanger",
+    "iata_code": "SVG",
+    "icao_code": "ENZV",
+    "gps": [
+      58.876701,
+      5.63778
+    ]
+  },
+  {
+    "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport",
+    "continent": "EU",
+    "iso_country": "PL",
+    "municipality": "Gda\u0144sk",
+    "iata_code": "GDN",
+    "icao_code": "EPGD",
+    "gps": [
+      54.377602,
+      18.4662
+    ]
+  },
+  {
+    "name": "Krak\u00f3w John Paul II International Airport",
+    "continent": "EU",
+    "iso_country": "PL",
+    "municipality": "Balice",
+    "iata_code": "KRK",
+    "icao_code": "EPKK",
+    "gps": [
+      50.077702,
+      19.7848
+    ]
+  },
+  {
+    "name": "Warsaw Chopin Airport",
+    "continent": "EU",
+    "iso_country": "PL",
+    "municipality": "Warsaw",
+    "iata_code": "WAW",
+    "icao_code": "EPWA",
+    "gps": [
+      52.165699,
+      20.9671
+    ]
+  },
+  {
+    "name": "G\u00f6teborg Landvetter Airport",
+    "continent": "EU",
+    "iso_country": "SE",
+    "municipality": "G\u00f6teborg",
+    "iata_code": "GOT",
+    "icao_code": "ESGG",
+    "gps": [
+      57.6628,
+      12.2798
+    ]
+  },
+  {
+    "name": "Stockholm-Arlanda Airport",
+    "continent": "EU",
+    "iso_country": "SE",
+    "municipality": "Stockholm",
+    "iata_code": "ARN",
+    "icao_code": "ESSA",
+    "gps": [
+      59.64849,
+      17.928829
+    ]
+  },
+  {
+    "name": "Riga International Airport",
+    "continent": "EU",
+    "iso_country": "LV",
+    "municipality": "Riga",
+    "iata_code": "RIX",
+    "icao_code": "EVRA",
+    "gps": [
+      56.923599,
+      23.9711
+    ]
+  },
+  {
+    "name": "Vilnius International Airport",
+    "continent": "EU",
+    "iso_country": "LT",
+    "municipality": "Vilnius",
+    "iata_code": "VNO",
+    "icao_code": "EYVI",
+    "gps": [
+      54.634102,
+      25.285801
+    ]
+  },
+  {
+    "name": "Cape Town International Airport",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "municipality": "Cape Town",
+    "iata_code": "CPT",
+    "icao_code": "FACT",
+    "gps": [
+      -33.9648017883,
+      18.6016998291
+    ]
+  },
+  {
+    "name": "King Shaka International Airport",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "municipality": "Durban",
+    "iata_code": "DUR",
+    "icao_code": "FALE",
+    "gps": [
+      -29.6144444444,
+      31.1197222222
+    ]
+  },
+  {
+    "name": "O.R. Tambo International Airport",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "municipality": "Johannesburg",
+    "iata_code": "JNB",
+    "icao_code": "FAOR",
+    "gps": [
+      -26.1392,
+      28.246
+    ]
+  },
+  {
+    "name": "Sir Seretse Khama International Airport",
+    "continent": "AF",
+    "iso_country": "BW",
+    "municipality": "Gaborone",
+    "iata_code": "GBE",
+    "icao_code": "FBSK",
+    "gps": [
+      -24.555201,
+      25.9182
+    ]
+  },
+  {
+    "name": "King Mswati III International Airport",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "municipality": "Mpaka",
+    "iata_code": "SHO",
+    "icao_code": "FDSK",
+    "gps": [
+      -26.358611,
+      31.716944
+    ]
+  },
+  {
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "continent": "AF",
+    "iso_country": "MU",
+    "municipality": "Plaine Magnien",
+    "iata_code": "MRU",
+    "icao_code": "FIMP",
+    "gps": [
+      -20.430201,
+      57.683601
+    ]
+  },
+  {
+    "name": "Kenneth Kaunda International Airport",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "municipality": "Lusaka",
+    "iata_code": "LUN",
+    "icao_code": "FLLS",
+    "gps": [
+      -15.330833,
+      28.452722
+    ]
+  },
+  {
+    "name": "Roland Garros Airport",
+    "continent": "AF",
+    "iso_country": "RE",
+    "municipality": "Sainte-Marie",
+    "iata_code": "RUN",
+    "icao_code": "FMEE",
+    "gps": [
+      -20.890087,
+      55.518894
+    ]
+  },
+  {
+    "name": "Ivato Airport",
+    "continent": "AF",
+    "iso_country": "MG",
+    "municipality": "Antananarivo",
+    "iata_code": "TNR",
+    "icao_code": "FMMI",
+    "gps": [
+      -18.7969,
+      47.478802
+    ]
+  },
+  {
+    "name": "Quatro de Fevereiro International Airport",
+    "continent": "AF",
+    "iso_country": "AO",
+    "municipality": "Luanda",
+    "iata_code": "LAD",
+    "icao_code": "FNLU",
+    "gps": [
+      -8.85837,
+      13.2312
+    ]
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 International Airport",
+    "continent": "AF",
+    "iso_country": "ST",
+    "municipality": "S\u00e3o Tom\u00e9",
+    "iata_code": "TMS",
+    "icao_code": "FPST",
+    "gps": [
+      0.378175,
+      6.71215
+    ]
+  },
+  {
+    "name": "Maputo Airport",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "municipality": "Maputo",
+    "iata_code": "MPM",
+    "icao_code": "FQMA",
+    "gps": [
+      -25.920799,
+      32.572601
+    ]
+  },
+  {
+    "name": "Seychelles International Airport",
+    "continent": "AF",
+    "iso_country": "SC",
+    "municipality": "Mahe Island",
+    "iata_code": "SEZ",
+    "icao_code": "FSIA",
+    "gps": [
+      -4.67434,
+      55.521801
+    ]
+  },
+  {
+    "name": "N'Djamena International Airport",
+    "continent": "AF",
+    "iso_country": "TD",
+    "municipality": "N'Djamena",
+    "iata_code": "NDJ",
+    "icao_code": "FTTJ",
+    "gps": [
+      12.1337,
+      15.034
+    ]
+  },
+  {
+    "name": "Robert Gabriel Mugabe International Airport",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "municipality": "Harare",
+    "iata_code": "HRE",
+    "icao_code": "FVHA",
+    "gps": [
+      -17.931801,
+      31.0928
+    ]
+  },
+  {
+    "name": "Hosea Kutako International Airport",
+    "continent": "AF",
+    "iso_country": "NA",
+    "municipality": "Windhoek",
+    "iata_code": "WDH",
+    "icao_code": "FYWH",
+    "gps": [
+      -22.4799,
+      17.4709
+    ]
+  },
+  {
+    "name": "Ndjili International Airport",
+    "continent": "AF",
+    "iso_country": "CD",
+    "municipality": "Kinshasa",
+    "iata_code": "FIH",
+    "icao_code": "FZAA",
+    "gps": [
+      -4.38575,
+      15.4446
+    ]
+  },
+  {
+    "name": "Modibo Keita International Airport",
+    "continent": "AF",
+    "iso_country": "ML",
+    "municipality": "Bamako",
+    "iata_code": "BKO",
+    "icao_code": "GABS",
+    "gps": [
+      12.5335,
+      -7.94994
+    ]
+  },
+  {
+    "name": "Banjul International Airport",
+    "continent": "AF",
+    "iso_country": "GM",
+    "municipality": "Banjul",
+    "iata_code": "BJL",
+    "icao_code": "GBYD",
+    "gps": [
+      13.338,
+      -16.652201
+    ]
+  },
+  {
+    "name": "Fuerteventura Airport",
+    "continent": "AF",
+    "iso_country": "ES",
+    "municipality": "El Matorral",
+    "iata_code": "FUE",
+    "icao_code": "GCFV",
+    "gps": [
+      28.4527,
+      -13.8638
+    ]
+  },
+  {
+    "name": "Gran Canaria Airport",
+    "continent": "AF",
+    "iso_country": "ES",
+    "municipality": "Gran Canaria Island",
+    "iata_code": "LPA",
+    "icao_code": "GCLP",
+    "gps": [
+      27.9319,
+      -15.3866
+    ]
+  },
+  {
+    "name": "C\u00e9sar Manrique-Lanzarote Airport",
+    "continent": "AF",
+    "iso_country": "ES",
+    "municipality": "San Bartolom\u00e9",
+    "iata_code": "ACE",
+    "icao_code": "GCRR",
+    "gps": [
+      28.945499,
+      -13.6052
+    ]
+  },
+  {
+    "name": "Tenerife Sur Airport",
+    "continent": "AF",
+    "iso_country": "ES",
+    "municipality": "Tenerife",
+    "iata_code": "TFS",
+    "icao_code": "GCTS",
+    "gps": [
+      28.0445,
+      -16.5725
+    ]
+  },
+  {
+    "name": "Lungi International Airport",
+    "continent": "AF",
+    "iso_country": "SL",
+    "municipality": "Freetown (Lungi-Town)",
+    "iata_code": "FNA",
+    "icao_code": "GFLL",
+    "gps": [
+      8.61644,
+      -13.1955
+    ]
+  },
+  {
+    "name": "Roberts International Airport",
+    "continent": "AF",
+    "iso_country": "LR",
+    "municipality": "Monrovia",
+    "iata_code": "ROB",
+    "icao_code": "GLRB",
+    "gps": [
+      6.23379,
+      -10.3623
+    ]
+  },
+  {
+    "name": "Mohammed V International Airport",
+    "continent": "AF",
+    "iso_country": "MA",
+    "municipality": "Casablanca",
+    "iata_code": "CMN",
+    "icao_code": "GMMN",
+    "gps": [
+      33.3675,
+      -7.58997
+    ]
+  },
+  {
+    "name": "Blaise Diagne International Airport",
+    "continent": "AF",
+    "iso_country": "SN",
+    "municipality": "Dakar",
+    "iata_code": "DSS",
+    "icao_code": "GOBD",
+    "gps": [
+      14.67,
+      -17.073333
+    ]
+  },
+  {
+    "name": "Nouakchott\u2013Oumtounsy International Airport",
+    "continent": "AF",
+    "iso_country": "MR",
+    "municipality": "Nouakchott",
+    "iata_code": "NKC",
+    "icao_code": "GQNO",
+    "gps": [
+      18.31,
+      -15.969722
+    ]
+  },
+  {
+    "name": "Am\u00edlcar Cabral International Airport",
+    "continent": "AF",
+    "iso_country": "CV",
+    "municipality": "Espargos",
+    "iata_code": "SID",
+    "icao_code": "GVAC",
+    "gps": [
+      16.7414,
+      -22.9494
+    ]
+  },
+  {
+    "name": "Nelson Mandela International Airport",
+    "continent": "AF",
+    "iso_country": "CV",
+    "municipality": "Praia",
+    "iata_code": "RAI",
+    "icao_code": "GVNP",
+    "gps": [
+      14.941126,
+      -23.484728
+    ]
+  },
+  {
+    "name": "Addis Ababa Bole International Airport",
+    "continent": "AF",
+    "iso_country": "ET",
+    "municipality": "Addis Ababa",
+    "iata_code": "ADD",
+    "icao_code": "HAAB",
+    "gps": [
+      8.97789,
+      38.799301
+    ]
+  },
+  {
+    "name": "Djibouti-Ambouli Airport",
+    "continent": "AF",
+    "iso_country": "DJ",
+    "municipality": "Djibouti City",
+    "iata_code": "JIB",
+    "icao_code": "HDAM",
+    "gps": [
+      11.5473,
+      43.1595
+    ]
+  },
+  {
+    "name": "Cairo International Airport",
+    "continent": "AF",
+    "iso_country": "EG",
+    "municipality": "Cairo",
+    "iata_code": "CAI",
+    "icao_code": "HECA",
+    "gps": [
+      30.111534,
+      31.396694
+    ]
+  },
+  {
+    "name": "Hurghada International Airport",
+    "continent": "AF",
+    "iso_country": "EG",
+    "municipality": "Hurghada",
+    "iata_code": "HRG",
+    "icao_code": "HEGN",
+    "gps": [
+      27.176776,
+      33.796692
+    ]
+  },
+  {
+    "name": "Sharm El Sheikh International Airport",
+    "continent": "AS",
+    "iso_country": "EG",
+    "municipality": "Sharm El Sheikh",
+    "iata_code": "SSH",
+    "icao_code": "HESH",
+    "gps": [
+      27.977272,
+      34.394717
+    ]
+  },
+  {
+    "name": "Juba International Airport",
+    "continent": "AF",
+    "iso_country": "SS",
+    "municipality": "Juba",
+    "iata_code": "JUB",
+    "icao_code": "HJJJ",
+    "gps": [
+      4.87201,
+      31.601101
+    ]
+  },
+  {
+    "name": "Jomo Kenyatta International Airport",
+    "continent": "AF",
+    "iso_country": "KE",
+    "municipality": "Nairobi",
+    "iata_code": "NBO",
+    "icao_code": "HKJK",
+    "gps": [
+      -1.31923997402,
+      36.9277992249
+    ]
+  },
+  {
+    "name": "Moi International Airport",
+    "continent": "AF",
+    "iso_country": "KE",
+    "municipality": "Mombasa",
+    "iata_code": "MBA",
+    "icao_code": "HKMO",
+    "gps": [
+      -4.03483,
+      39.5942
+    ]
+  },
+  {
+    "name": "Mitiga International Airport",
+    "continent": "AF",
+    "iso_country": "LY",
+    "municipality": "Tripoli",
+    "iata_code": "MJI",
+    "icao_code": "HLLM",
+    "gps": [
+      32.89177,
+      13.287878
+    ]
+  },
+  {
+    "name": "Kigali International Airport",
+    "continent": "AF",
+    "iso_country": "RW",
+    "municipality": "Kigali",
+    "iata_code": "KGL",
+    "icao_code": "HRYR",
+    "gps": [
+      -1.96863,
+      30.1395
+    ]
+  },
+  {
+    "name": "Khartoum International Airport",
+    "continent": "AF",
+    "iso_country": "SD",
+    "municipality": "Khartoum",
+    "iata_code": "KRT",
+    "icao_code": "HSSK",
+    "gps": [
+      15.5895,
+      32.5532
+    ]
+  },
+  {
+    "name": "Julius Nyerere International Airport",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "municipality": "Dar es Salaam",
+    "iata_code": "DAR",
+    "icao_code": "HTDA",
+    "gps": [
+      -6.87811,
+      39.202599
+    ]
+  },
+  {
+    "name": "Abeid Amani Karume International Airport",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "municipality": "Zanzibar",
+    "iata_code": "ZNZ",
+    "icao_code": "HTZA",
+    "gps": [
+      -6.22202,
+      39.224899
+    ]
+  },
+  {
+    "name": "Entebbe International Airport",
+    "continent": "AF",
+    "iso_country": "UG",
+    "municipality": "Kampala",
+    "iata_code": "EBB",
+    "icao_code": "HUEN",
+    "gps": [
+      0.042386,
+      32.443501
+    ]
+  },
+  {
+    "name": "Dhoho International Airport",
+    "continent": "AS",
+    "iso_country": "ID",
+    "municipality": "Kediri",
+    "iata_code": "DHX",
+    "icao_code": "ID-0277",
+    "gps": [
+      -7.750278,
+      111.947222
+    ]
+  },
+  {
+    "name": "Manohar International Airport",
+    "continent": "AS",
+    "iso_country": "IN",
+    "municipality": "Mopa",
+    "iata_code": "GOX",
+    "icao_code": "IN-0277",
+    "gps": [
+      15.744257,
+      73.860625
+    ]
+  },
+  {
+    "name": "Albuquerque International Sunport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Albuquerque",
+    "iata_code": "ABQ",
+    "icao_code": "KABQ",
+    "gps": [
+      35.039976,
+      -106.608925
+    ]
+  },
+  {
+    "name": "Joint Base Andrews",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Camp Springs",
+    "iata_code": "ADW",
+    "icao_code": "KADW",
+    "gps": [
+      38.810799,
+      -76.866997
+    ]
+  },
+  {
+    "name": "Hartsfield Jackson Atlanta International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Atlanta",
+    "iata_code": "ATL",
+    "icao_code": "KATL",
+    "gps": [
+      33.6367,
+      -84.428101
+    ]
+  },
+  {
+    "name": "Austin Bergstrom International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Austin",
+    "iata_code": "AUS",
+    "icao_code": "KAUS",
+    "gps": [
+      30.197535,
+      -97.662015
+    ]
+  },
+  {
+    "name": "Bradley International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Hartford",
+    "iata_code": "BDL",
+    "icao_code": "KBDL",
+    "gps": [
+      41.93851,
+      -72.688066
+    ]
+  },
+  {
+    "name": "Nashville International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Nashville",
+    "iata_code": "BNA",
+    "icao_code": "KBNA",
+    "gps": [
+      36.1245,
+      -86.6782
+    ]
+  },
+  {
+    "name": "Logan International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Boston",
+    "iata_code": "BOS",
+    "icao_code": "KBOS",
+    "gps": [
+      42.36197,
+      -71.0079
+    ]
+  },
+  {
+    "name": "Buffalo Niagara International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Buffalo",
+    "iata_code": "BUF",
+    "icao_code": "KBUF",
+    "gps": [
+      42.940498,
+      -78.732201
+    ]
+  },
+  {
+    "name": "Baltimore/Washington International Thurgood Marshall Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Baltimore",
+    "iata_code": "BWI",
+    "icao_code": "KBWI",
+    "gps": [
+      39.1754,
+      -76.668297
+    ]
+  },
+  {
+    "name": "Cleveland Hopkins International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Cleveland",
+    "iata_code": "CLE",
+    "icao_code": "KCLE",
+    "gps": [
+      41.411701,
+      -81.8498
+    ]
+  },
+  {
+    "name": "Charlotte Douglas International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Charlotte",
+    "iata_code": "CLT",
+    "icao_code": "KCLT",
+    "gps": [
+      35.2140007019043,
+      -80.94309997558594
+    ]
+  },
+  {
+    "name": "Camarillo International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Camarillo",
+    "iata_code": null,
+    "icao_code": "KCMA",
+    "gps": [
+      34.213699,
+      -119.094002
+    ]
+  },
+  {
+    "name": "John Glenn Columbus International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Columbus",
+    "iata_code": "CMH",
+    "icao_code": "KCMH",
+    "gps": [
+      39.998001,
+      -82.891899
+    ]
+  },
+  {
+    "name": "Cincinnati Northern Kentucky International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Cincinnati / Covington",
+    "iata_code": "CVG",
+    "icao_code": "KCVG",
+    "gps": [
+      39.048801,
+      -84.667801
+    ]
+  },
+  {
+    "name": "Ronald Reagan Washington National Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Washington",
+    "iata_code": "DCA",
+    "icao_code": "KDCA",
+    "gps": [
+      38.8521,
+      -77.037697
+    ]
+  },
+  {
+    "name": "Denver International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Denver",
+    "iata_code": "DEN",
+    "icao_code": "KDEN",
+    "gps": [
+      39.861698150635,
+      -104.672996521
+    ]
+  },
+  {
+    "name": "Dallas Fort Worth International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Dallas-Fort Worth",
+    "iata_code": "DFW",
+    "icao_code": "KDFW",
+    "gps": [
+      32.896801,
+      -97.038002
+    ]
+  },
+  {
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Detroit",
+    "iata_code": "DTW",
+    "icao_code": "KDTW",
+    "gps": [
+      42.21377,
+      -83.353786
+    ]
+  },
+  {
+    "name": "Newark Liberty International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Newark",
+    "iata_code": "EWR",
+    "icao_code": "KEWR",
+    "gps": [
+      40.692501,
+      -74.168701
+    ]
+  },
+  {
+    "name": "Fort Lauderdale Hollywood International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Fort Lauderdale",
+    "iata_code": "FLL",
+    "icao_code": "KFLL",
+    "gps": [
+      26.072599,
+      -80.152702
+    ]
+  },
+  {
+    "name": "Washington Dulles International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Dulles",
+    "iata_code": "IAD",
+    "icao_code": "KIAD",
+    "gps": [
+      38.9445,
+      -77.455803
+    ]
+  },
+  {
+    "name": "George Bush Intercontinental Houston Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Houston",
+    "iata_code": "IAH",
+    "icao_code": "KIAH",
+    "gps": [
+      29.984399795532227,
+      -95.34140014648438
+    ]
+  },
+  {
+    "name": "Indianapolis International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Indianapolis",
+    "iata_code": "IND",
+    "icao_code": "KIND",
+    "gps": [
+      39.7173,
+      -86.294403
+    ]
+  },
+  {
+    "name": "Jacksonville International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Jacksonville",
+    "iata_code": "JAX",
+    "icao_code": "KJAX",
+    "gps": [
+      30.492469,
+      -81.687813
+    ]
+  },
+  {
+    "name": "John F Kennedy International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "New York",
+    "iata_code": "JFK",
+    "icao_code": "KJFK",
+    "gps": [
+      40.639447,
+      -73.779317
+    ]
+  },
+  {
+    "name": "Harry Reid International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Las Vegas",
+    "iata_code": "LAS",
+    "icao_code": "KLAS",
+    "gps": [
+      36.083361,
+      -115.151817
+    ]
+  },
+  {
+    "name": "Los Angeles International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Los Angeles",
+    "iata_code": "LAX",
+    "icao_code": "KLAX",
+    "gps": [
+      33.942501,
+      -118.407997
+    ]
+  },
+  {
+    "name": "LaGuardia Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "New York",
+    "iata_code": "LGA",
+    "icao_code": "KLGA",
+    "gps": [
+      40.777199,
+      -73.872597
+    ]
+  },
+  {
+    "name": "Kansas City International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Kansas City",
+    "iata_code": "MCI",
+    "icao_code": "KMCI",
+    "gps": [
+      39.2976,
+      -94.713898
+    ]
+  },
+  {
+    "name": "Orlando International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Orlando",
+    "iata_code": "MCO",
+    "icao_code": "KMCO",
+    "gps": [
+      28.429399490356445,
+      -81.30899810791016
+    ]
+  },
+  {
+    "name": "Chicago Midway International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Chicago",
+    "iata_code": "MDW",
+    "icao_code": "KMDW",
+    "gps": [
+      41.785999,
+      -87.752403
+    ]
+  },
+  {
+    "name": "Memphis International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Memphis",
+    "iata_code": "MEM",
+    "icao_code": "KMEM",
+    "gps": [
+      35.0424,
+      -89.9767
+    ]
+  },
+  {
+    "name": "Miami International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Miami",
+    "iata_code": "MIA",
+    "icao_code": "KMIA",
+    "gps": [
+      25.79319953918457,
+      -80.29060363769531
+    ]
+  },
+  {
+    "name": "General Mitchell International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Milwaukee",
+    "iata_code": "MKE",
+    "icao_code": "KMKE",
+    "gps": [
+      42.947201,
+      -87.896599
+    ]
+  },
+  {
+    "name": "Minneapolis\u2013Saint Paul International Airport / Wold\u2013Chamberlain Field",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Minneapolis",
+    "iata_code": "MSP",
+    "icao_code": "KMSP",
+    "gps": [
+      44.880081,
+      -93.221741
+    ]
+  },
+  {
+    "name": "Louis Armstrong New Orleans International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "New Orleans",
+    "iata_code": "MSY",
+    "icao_code": "KMSY",
+    "gps": [
+      29.993401,
+      -90.258003
+    ]
+  },
+  {
+    "name": "San Francisco Bay Oakland International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Oakland",
+    "iata_code": "OAK",
+    "icao_code": "KOAK",
+    "gps": [
+      37.720085,
+      -122.221184
+    ]
+  },
+  {
+    "name": "Will Rogers World Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Oklahoma City",
+    "iata_code": "OKC",
+    "icao_code": "KOKC",
+    "gps": [
+      35.393388,
+      -97.598248
+    ]
+  },
+  {
+    "name": "Eppley Airfield",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Omaha",
+    "iata_code": "OMA",
+    "icao_code": "KOMA",
+    "gps": [
+      41.3032,
+      -95.894096
+    ]
+  },
+  {
+    "name": "Ontario International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Ontario",
+    "iata_code": "ONT",
+    "icao_code": "KONT",
+    "gps": [
+      34.056,
+      -117.600998
+    ]
+  },
+  {
+    "name": "Chicago O'Hare International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Chicago",
+    "iata_code": "ORD",
+    "icao_code": "KORD",
+    "gps": [
+      41.9786,
+      -87.9048
+    ]
+  },
+  {
+    "name": "Norfolk International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Norfolk",
+    "iata_code": "ORF",
+    "icao_code": "KORF",
+    "gps": [
+      36.895341,
+      -76.201
+    ]
+  },
+  {
+    "name": "Palm Beach International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "West Palm Beach",
+    "iata_code": "PBI",
+    "icao_code": "KPBI",
+    "gps": [
+      26.683201,
+      -80.095596
+    ]
+  },
+  {
+    "name": "Portland International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Portland",
+    "iata_code": "PDX",
+    "icao_code": "KPDX",
+    "gps": [
+      45.588699,
+      -122.598
+    ]
+  },
+  {
+    "name": "Philadelphia International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Philadelphia",
+    "iata_code": "PHL",
+    "icao_code": "KPHL",
+    "gps": [
+      39.871899,
+      -75.241096
+    ]
+  },
+  {
+    "name": "Phoenix Sky Harbor International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Phoenix",
+    "iata_code": "PHX",
+    "icao_code": "KPHX",
+    "gps": [
+      33.435302,
+      -112.005905
+    ]
+  },
+  {
+    "name": "Pittsburgh International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Pittsburgh",
+    "iata_code": "PIT",
+    "icao_code": "KPIT",
+    "gps": [
+      40.491501,
+      -80.232903
+    ]
+  },
+  {
+    "name": "Theodore Francis Green State Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Warwick",
+    "iata_code": "PVD",
+    "icao_code": "KPVD",
+    "gps": [
+      41.725038,
+      -71.425668
+    ]
+  },
+  {
+    "name": "Portland International Jetport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Portland",
+    "iata_code": "PWM",
+    "icao_code": "KPWM",
+    "gps": [
+      43.646198,
+      -70.309303
+    ]
+  },
+  {
+    "name": "Raleigh Durham International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Raleigh/Durham",
+    "iata_code": "RDU",
+    "icao_code": "KRDU",
+    "gps": [
+      35.877602,
+      -78.787498
+    ]
+  },
+  {
+    "name": "Richmond International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Richmond",
+    "iata_code": "RIC",
+    "icao_code": "KRIC",
+    "gps": [
+      37.505199,
+      -77.319702
+    ]
+  },
+  {
+    "name": "Reno Tahoe International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Reno",
+    "iata_code": "RNO",
+    "icao_code": "KRNO",
+    "gps": [
+      39.4991,
+      -119.767998
+    ]
+  },
+  {
+    "name": "Southwest Florida International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Fort Myers",
+    "iata_code": "RSW",
+    "icao_code": "KRSW",
+    "gps": [
+      26.53619956970215,
+      -81.75520324707031
+    ]
+  },
+  {
+    "name": "San Diego International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "San Diego",
+    "iata_code": "SAN",
+    "icao_code": "KSAN",
+    "gps": [
+      32.7336006165,
+      -117.190002441
+    ]
+  },
+  {
+    "name": "San Antonio International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "San Antonio",
+    "iata_code": "SAT",
+    "icao_code": "KSAT",
+    "gps": [
+      29.533701,
+      -98.469803
+    ]
+  },
+  {
+    "name": "Savannah Hilton Head International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Savannah",
+    "iata_code": "SAV",
+    "icao_code": "KSAV",
+    "gps": [
+      32.127602,
+      -81.202103
+    ]
+  },
+  {
+    "name": "Louisville Muhammad Ali International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Louisville",
+    "iata_code": "SDF",
+    "icao_code": "KSDF",
+    "gps": [
+      38.1744,
+      -85.736
+    ]
+  },
+  {
+    "name": "Seattle\u2013Tacoma International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Seattle",
+    "iata_code": "SEA",
+    "icao_code": "KSEA",
+    "gps": [
+      47.447943,
+      -122.310276
+    ]
+  },
+  {
+    "name": "Orlando Sanford International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Orlando",
+    "iata_code": "SFB",
+    "icao_code": "KSFB",
+    "gps": [
+      28.777599334716797,
+      -81.23750305175781
+    ]
+  },
+  {
+    "name": "San Francisco International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "San Francisco",
+    "iata_code": "SFO",
+    "icao_code": "KSFO",
+    "gps": [
+      37.619806,
+      -122.374821
+    ]
+  },
+  {
+    "name": "Norman Y. Mineta San Jose International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "San Jose",
+    "iata_code": "SJC",
+    "icao_code": "KSJC",
+    "gps": [
+      37.362452,
+      -121.929188
+    ]
+  },
+  {
+    "name": "Salt Lake City International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Salt Lake City",
+    "iata_code": "SLC",
+    "icao_code": "KSLC",
+    "gps": [
+      40.78886,
+      -111.979866
+    ]
+  },
+  {
+    "name": "Sacramento International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Sacramento",
+    "iata_code": "SMF",
+    "icao_code": "KSMF",
+    "gps": [
+      38.6954,
+      -121.591003
+    ]
+  },
+  {
+    "name": "John Wayne Orange County International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Santa Ana",
+    "iata_code": "SNA",
+    "icao_code": "KSNA",
+    "gps": [
+      33.675701,
+      -117.867996
+    ]
+  },
+  {
+    "name": "Sarasota Bradenton International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Sarasota/Bradenton",
+    "iata_code": "SRQ",
+    "icao_code": "KSRQ",
+    "gps": [
+      27.394631,
+      -82.554359
+    ]
+  },
+  {
+    "name": "St. Louis Lambert International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "St Louis",
+    "iata_code": "STL",
+    "icao_code": "KSTL",
+    "gps": [
+      38.748697,
+      -90.370003
+    ]
+  },
+  {
+    "name": "Syracuse Hancock International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Syracuse",
+    "iata_code": "SYR",
+    "icao_code": "KSYR",
+    "gps": [
+      43.11119842529297,
+      -76.1063003540039
+    ]
+  },
+  {
+    "name": "Tampa International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Tampa",
+    "iata_code": "TPA",
+    "icao_code": "KTPA",
+    "gps": [
+      27.9755,
+      -82.533203
+    ]
+  },
+  {
+    "name": "Tulsa International Airport",
+    "continent": "NA",
+    "iso_country": "US",
+    "municipality": "Tulsa",
+    "iata_code": "TUL",
+    "icao_code": "KTUL",
+    "gps": [
+      36.19839859008789,
+      -95.88809967041016
+    ]
+  },
+  {
+    "name": "Tirana International Airport Mother Teresa",
+    "continent": "EU",
+    "iso_country": "AL",
+    "municipality": "Rinas",
+    "iata_code": "TIA",
+    "icao_code": "LATI",
+    "gps": [
+      41.4147,
+      19.7206
+    ]
+  },
+  {
+    "name": "Burgas Airport",
+    "continent": "EU",
+    "iso_country": "BG",
+    "municipality": "Burgas",
+    "iata_code": "BOJ",
+    "icao_code": "LBBG",
+    "gps": [
+      42.569917,
+      27.515173
+    ]
+  },
+  {
+    "name": "Sofia Airport",
+    "continent": "EU",
+    "iso_country": "BG",
+    "municipality": "Sofia",
+    "iata_code": "SOF",
+    "icao_code": "LBSF",
+    "gps": [
+      42.696357,
+      23.417671
+    ]
+  },
+  {
+    "name": "Varna Airport",
+    "continent": "EU",
+    "iso_country": "BG",
+    "municipality": "Varna",
+    "iata_code": "VAR",
+    "icao_code": "LBWN",
+    "gps": [
+      43.232101,
+      27.8251
+    ]
+  },
+  {
+    "name": "Larnaca International Airport",
+    "continent": "AS",
+    "iso_country": "CY",
+    "municipality": "Larnaca",
+    "iata_code": "LCA",
+    "icao_code": "LCLK",
+    "gps": [
+      34.875099,
+      33.624901
+    ]
+  },
+  {
+    "name": "Zagreb Franjo Tu\u0111man International Airport",
+    "continent": "EU",
+    "iso_country": "HR",
+    "municipality": "Velika Gorica",
+    "iata_code": "ZAG",
+    "icao_code": "LDZA",
+    "gps": [
+      45.742901,
+      16.0688
+    ]
+  },
+  {
+    "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Alicante",
+    "iata_code": "ALC",
+    "icao_code": "LEAL",
+    "gps": [
+      38.2822,
+      -0.558156
+    ]
+  },
+  {
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Barcelona",
+    "iata_code": "BCN",
+    "icao_code": "LEBL",
+    "gps": [
+      41.2971,
+      2.07846
+    ]
+  },
+  {
+    "name": "Ibiza Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Ibiza (Eivissa)",
+    "iata_code": "IBZ",
+    "icao_code": "LEIB",
+    "gps": [
+      38.872898,
+      1.37312
+    ]
+  },
+  {
+    "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Madrid",
+    "iata_code": "MAD",
+    "icao_code": "LEMD",
+    "gps": [
+      40.471926,
+      -3.56264
+    ]
+  },
+  {
+    "name": "M\u00e1laga-Costa del Sol Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "M\u00e1laga",
+    "iata_code": "AGP",
+    "icao_code": "LEMG",
+    "gps": [
+      36.6749,
+      -4.49911
+    ]
+  },
+  {
+    "name": "Palma de Mallorca Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Palma de Mallorca",
+    "iata_code": "PMI",
+    "icao_code": "LEPA",
+    "gps": [
+      39.551701,
+      2.73881
+    ]
+  },
+  {
+    "name": "Santiago-Rosal\u00eda de Castro Airport",
+    "continent": "EU",
+    "iso_country": "ES",
+    "municipality": "Santiago de Compostela",
+    "iata_code": "SCQ",
+    "icao_code": "LEST",
+    "gps": [
+      42.896301,
+      -8.41514
+    ]
+  },
+  {
+    "name": "Bordeaux-M\u00e9rignac Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Bordeaux/M\u00e9rignac",
+    "iata_code": "BOD",
+    "icao_code": "LFBD",
+    "gps": [
+      44.8283,
+      -0.715556
+    ]
+  },
+  {
+    "name": "Toulouse-Blagnac Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Toulouse/Blagnac",
+    "iata_code": "TLS",
+    "icao_code": "LFBO",
+    "gps": [
+      43.629101,
+      1.36382
+    ]
+  },
+  {
+    "name": "Lyon Saint-Exup\u00e9ry Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Colombier-Saugnieu, Rh\u00f4ne",
+    "iata_code": "LYS",
+    "icao_code": "LFLL",
+    "gps": [
+      45.725996,
+      5.090139
+    ]
+  },
+  {
+    "name": "Marseille Provence Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Marignane, Bouches-du-Rh\u00f4ne",
+    "iata_code": "MRS",
+    "icao_code": "LFML",
+    "gps": [
+      43.438088,
+      5.2125
+    ]
+  },
+  {
+    "name": "Nice-C\u00f4te d'Azur Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Nice, Alpes-Maritimes",
+    "iata_code": "NCE",
+    "icao_code": "LFMN",
+    "gps": [
+      43.658401,
+      7.21587
+    ]
+  },
+  {
+    "name": "Charles de Gaulle International Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Paris (Roissy-en-France, Val-d'Oise)",
+    "iata_code": "CDG",
+    "icao_code": "LFPG",
+    "gps": [
+      49.012798,
+      2.55
+    ]
+  },
+  {
+    "name": "Paris-Orly Airport",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Paris (Orly, Val-de-Marne)",
+    "iata_code": "ORY",
+    "icao_code": "LFPO",
+    "gps": [
+      48.72333,
+      2.37944
+    ]
+  },
+  {
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "continent": "EU",
+    "iso_country": "FR",
+    "municipality": "Saint-Louis",
+    "iata_code": "BSL",
+    "icao_code": "LFSB",
+    "gps": [
+      47.60068,
+      7.521117
+    ]
+  },
+  {
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "continent": "EU",
+    "iso_country": "GR",
+    "municipality": "Spata-Artemida",
+    "iata_code": "ATH",
+    "icao_code": "LGAV",
+    "gps": [
+      37.936401,
+      23.9445
+    ]
+  },
+  {
+    "name": "Heraklion International Nikos Kazantzakis Airport",
+    "continent": "EU",
+    "iso_country": "GR",
+    "municipality": "Heraklion",
+    "iata_code": "HER",
+    "icao_code": "LGIR",
+    "gps": [
+      35.339699,
+      25.1803
+    ]
+  },
+  {
+    "name": "Thessaloniki Macedonia International Airport",
+    "continent": "EU",
+    "iso_country": "GR",
+    "municipality": "Thessaloniki",
+    "iata_code": "SKG",
+    "icao_code": "LGTS",
+    "gps": [
+      40.51928,
+      22.970009
+    ]
+  },
+  {
+    "name": "Budapest Liszt Ferenc International Airport",
+    "continent": "EU",
+    "iso_country": "HU",
+    "municipality": "Budapest",
+    "iata_code": "BUD",
+    "icao_code": "LHBP",
+    "gps": [
+      47.43018,
+      19.262393
+    ]
+  },
+  {
+    "name": "Bari Karol Wojty\u0142a Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Bari",
+    "iata_code": "BRI",
+    "icao_code": "LIBD",
+    "gps": [
+      41.138901,
+      16.760599
+    ]
+  },
+  {
+    "name": "Brindisi Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Brindisi",
+    "iata_code": "BDS",
+    "icao_code": "LIBR",
+    "gps": [
+      40.6576,
+      17.947001
+    ]
+  },
+  {
+    "name": "Catania-Fontanarossa Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Catania",
+    "iata_code": "CTA",
+    "icao_code": "LICC",
+    "gps": [
+      37.466801,
+      15.0664
+    ]
+  },
+  {
+    "name": "Falcone\u2013Borsellino Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Palermo",
+    "iata_code": "PMO",
+    "icao_code": "LICJ",
+    "gps": [
+      38.175999,
+      13.091
+    ]
+  },
+  {
+    "name": "Cagliari Elmas Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Cagliari",
+    "iata_code": "CAG",
+    "icao_code": "LIEE",
+    "gps": [
+      39.251499,
+      9.05428
+    ]
+  },
+  {
+    "name": "Milan Malpensa International Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Ferno (VA)",
+    "iata_code": "MXP",
+    "icao_code": "LIMC",
+    "gps": [
+      45.6306,
+      8.72811
+    ]
+  },
+  {
+    "name": "Milan Bergamo Airport / Antonio Locatelli Air Base",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Orio al Serio (BG)",
+    "iata_code": "BGY",
+    "icao_code": "LIME",
+    "gps": [
+      45.670725,
+      9.709223
+    ]
+  },
+  {
+    "name": "Turin Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Caselle Torinese (TO)",
+    "iata_code": "TRN",
+    "icao_code": "LIMF",
+    "gps": [
+      45.200802,
+      7.64963
+    ]
+  },
+  {
+    "name": "Bologna Guglielmo Marconi Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Bologna",
+    "iata_code": "BLQ",
+    "icao_code": "LIPE",
+    "gps": [
+      44.5354,
+      11.2887
+    ]
+  },
+  {
+    "name": "Verona Villafranca Valerio Catullo Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Caselle (VR)",
+    "iata_code": "VRN",
+    "icao_code": "LIPX",
+    "gps": [
+      45.394955,
+      10.887303
+    ]
+  },
+  {
+    "name": "Venice Marco Polo Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Venezia (VE)",
+    "iata_code": "VCE",
+    "icao_code": "LIPZ",
+    "gps": [
+      45.505299,
+      12.3519
+    ]
+  },
+  {
+    "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Rome",
+    "iata_code": "FCO",
+    "icao_code": "LIRF",
+    "gps": [
+      41.804532,
+      12.251998
+    ]
+  },
+  {
+    "name": "Naples International Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Napoli",
+    "iata_code": "NAP",
+    "icao_code": "LIRN",
+    "gps": [
+      40.886002,
+      14.2908
+    ]
+  },
+  {
+    "name": "Pisa International Airport",
+    "continent": "EU",
+    "iso_country": "IT",
+    "municipality": "Pisa",
+    "iata_code": "PSA",
+    "icao_code": "LIRP",
+    "gps": [
+      43.683899,
+      10.3927
+    ]
+  },
+  {
+    "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport",
+    "continent": "EU",
+    "iso_country": "SI",
+    "municipality": "Zgornji Brnik",
+    "iata_code": "LJU",
+    "icao_code": "LJLJ",
+    "gps": [
+      46.223701,
+      14.4576
+    ]
+  },
+  {
+    "name": "V\u00e1clav Havel Airport Prague",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "municipality": "Prague",
+    "iata_code": "PRG",
+    "icao_code": "LKPR",
+    "gps": [
+      50.100874,
+      14.259911
+    ]
+  },
+  {
+    "name": "Ben Gurion International Airport",
+    "continent": "AS",
+    "iso_country": "IL",
+    "municipality": "Tel Aviv",
+    "iata_code": "TLV",
+    "icao_code": "LLBG",
+    "gps": [
+      32.011398,
+      34.8867
+    ]
+  },
+  {
+    "name": "Ramon International Airport",
+    "continent": "AS",
+    "iso_country": "IL",
+    "municipality": "Eilat",
+    "iata_code": "ETM",
+    "icao_code": "LLER",
+    "gps": [
+      29.727009,
+      35.014116
+    ]
+  },
+  {
+    "name": "Malta International Airport",
+    "continent": "EU",
+    "iso_country": "MT",
+    "municipality": "Valletta",
+    "iata_code": "MLA",
+    "icao_code": "LMML",
+    "gps": [
+      35.857498,
+      14.4775
+    ]
+  },
+  {
+    "name": "Vienna International Airport",
+    "continent": "EU",
+    "iso_country": "AT",
+    "municipality": "Vienna",
+    "iata_code": "VIE",
+    "icao_code": "LOWW",
+    "gps": [
+      48.110298,
+      16.5697
+    ]
+  },
+  {
+    "name": "Faro Airport",
+    "continent": "EU",
+    "iso_country": "PT",
+    "municipality": "Faro",
+    "iata_code": "FAO",
+    "icao_code": "LPFR",
+    "gps": [
+      37.0144004822,
+      -7.96590995789
+    ]
+  },
+  {
+    "name": "Madeira International Airport Cristiano Ronaldo",
+    "continent": "EU",
+    "iso_country": "PT",
+    "municipality": "Funchal",
+    "iata_code": "FNC",
+    "icao_code": "LPMA",
+    "gps": [
+      32.697899,
+      -16.7745
+    ]
+  },
+  {
+    "name": "Jo\u00e3o Paulo II Airport",
+    "continent": "EU",
+    "iso_country": "PT",
+    "municipality": "Ponta Delgada",
+    "iata_code": "PDL",
+    "icao_code": "LPPD",
+    "gps": [
+      37.7411994934,
+      -25.6979007721
+    ]
+  },
+  {
+    "name": "Francisco de S\u00e1 Carneiro Airport",
+    "continent": "EU",
+    "iso_country": "PT",
+    "municipality": "Porto",
+    "iata_code": "OPO",
+    "icao_code": "LPPR",
+    "gps": [
+      41.2481002808,
+      -8.68138980865
+    ]
+  },
+  {
+    "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
+    "continent": "EU",
+    "iso_country": "PT",
+    "municipality": "Lisbon",
+    "iata_code": "LIS",
+    "icao_code": "LPPT",
+    "gps": [
+      38.7813,
+      -9.13592
+    ]
+  },
+  {
+    "name": "Bucharest Henri Coand\u0103 International Airport",
+    "continent": "EU",
+    "iso_country": "RO",
+    "municipality": "Otopeni",
+    "iata_code": "OTP",
+    "icao_code": "LROP",
+    "gps": [
+      44.572127,
+      26.103396
+    ]
+  },
+  {
+    "name": "Geneva Cointrin International Airport",
+    "continent": "EU",
+    "iso_country": "CH",
+    "municipality": "Geneva",
+    "iata_code": "GVA",
+    "icao_code": "LSGG",
+    "gps": [
+      46.238098,
+      6.10895
+    ]
+  },
+  {
+    "name": "Z\u00fcrich Airport",
+    "continent": "EU",
+    "iso_country": "CH",
+    "municipality": "Zurich",
+    "iata_code": "ZRH",
+    "icao_code": "LSZH",
+    "gps": [
+      47.458056,
+      8.548056
+    ]
+  },
+  {
+    "name": "Esenbo\u011fa International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Ankara",
+    "iata_code": "ESB",
+    "icao_code": "LTAC",
+    "gps": [
+      40.128101,
+      32.995098
+    ]
+  },
+  {
+    "name": "Antalya International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Antalya",
+    "iata_code": "AYT",
+    "icao_code": "LTAI",
+    "gps": [
+      36.898701,
+      30.800501
+    ]
+  },
+  {
+    "name": "\u0130stanbul Atat\u00fcrk Airport",
+    "continent": "EU",
+    "iso_country": "TR",
+    "municipality": "Bak\u0131rk\u00f6y, Istanbul",
+    "iata_code": "ISL",
+    "icao_code": "LTBA",
+    "gps": [
+      40.971913,
+      28.823714
+    ]
+  },
+  {
+    "name": "Adnan Menderes International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Gaziemir",
+    "iata_code": "ADB",
+    "icao_code": "LTBJ",
+    "gps": [
+      38.2924,
+      27.157
+    ]
+  },
+  {
+    "name": "Dalaman International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Dalaman",
+    "iata_code": "DLM",
+    "icao_code": "LTBS",
+    "gps": [
+      36.7131004333,
+      28.7924995422
+    ]
+  },
+  {
+    "name": "Milas Bodrum International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Bodrum",
+    "iata_code": "BJV",
+    "icao_code": "LTFE",
+    "gps": [
+      37.250599,
+      27.664301
+    ]
+  },
+  {
+    "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport",
+    "continent": "AS",
+    "iso_country": "TR",
+    "municipality": "Pendik, Istanbul",
+    "iata_code": "SAW",
+    "icao_code": "LTFJ",
+    "gps": [
+      40.898602,
+      29.3092
+    ]
+  },
+  {
+    "name": "\u0130stanbul Airport",
+    "continent": "EU",
+    "iso_country": "TR",
+    "municipality": "Arnavutk\u00f6y, Istanbul",
+    "iata_code": "IST",
+    "icao_code": "LTFM",
+    "gps": [
+      41.261297,
+      28.741951
+    ]
+  },
+  {
+    "name": "Skopje International Airport",
+    "continent": "EU",
+    "iso_country": "MK",
+    "municipality": "Ilinden",
+    "iata_code": "SKP",
+    "icao_code": "LWSK",
+    "gps": [
+      41.958087,
+      21.622581
+    ]
+  },
+  {
+    "name": "Gibraltar Airport",
+    "continent": "EU",
+    "iso_country": "GI",
+    "municipality": "Gibraltar",
+    "iata_code": "GIB",
+    "icao_code": "LXGB",
+    "gps": [
+      36.151199,
+      -5.34966
+    ]
+  },
+  {
+    "name": "Belgrade Nikola Tesla Airport",
+    "continent": "EU",
+    "iso_country": "RS",
+    "municipality": "Belgrade",
+    "iata_code": "BEG",
+    "icao_code": "LYBE",
+    "gps": [
+      44.818401,
+      20.309099
+    ]
+  },
+  {
+    "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+    "continent": "EU",
+    "iso_country": "ME",
+    "municipality": "Podgorica",
+    "iata_code": "TGD",
+    "icao_code": "LYPG",
+    "gps": [
+      42.359402,
+      19.2519
+    ]
+  },
+  {
+    "name": "M. R. \u0160tef\u00e1nik Airport",
+    "continent": "EU",
+    "iso_country": "SK",
+    "municipality": "Bratislava",
+    "iata_code": "BTS",
+    "icao_code": "LZIB",
+    "gps": [
+      48.1702,
+      17.2127
+    ]
+  },
+  {
+    "name": "Providenciales International Airport",
+    "continent": "NA",
+    "iso_country": "TC",
+    "municipality": "Providenciales",
+    "iata_code": "PLS",
+    "icao_code": "MBPV",
+    "gps": [
+      21.773697,
+      -72.268321
+    ]
+  },
+  {
+    "name": "Casa De Campo International Airport",
+    "continent": "NA",
+    "iso_country": "DO",
+    "municipality": "La Romana",
+    "iata_code": "LRM",
+    "icao_code": "MDLR",
+    "gps": [
+      18.452222,
+      -68.911111
+    ]
+  },
+  {
+    "name": "Punta Cana International Airport",
+    "continent": "NA",
+    "iso_country": "DO",
+    "municipality": "Punta Cana",
+    "iata_code": "PUJ",
+    "icao_code": "MDPC",
+    "gps": [
+      18.5674,
+      -68.363403
+    ]
+  },
+  {
+    "name": "Las Am\u00e9ricas International Airport",
+    "continent": "NA",
+    "iso_country": "DO",
+    "municipality": "Santo Domingo",
+    "iata_code": "SDQ",
+    "icao_code": "MDSD",
+    "gps": [
+      18.42970085144,
+      -69.668899536133
+    ]
+  },
+  {
+    "name": "La Aurora Airport",
+    "continent": "NA",
+    "iso_country": "GT",
+    "municipality": "Guatemala City",
+    "iata_code": "GUA",
+    "icao_code": "MGGT",
+    "gps": [
+      14.5833,
+      -90.527496
+    ]
+  },
+  {
+    "name": "Norman Manley International Airport",
+    "continent": "NA",
+    "iso_country": "JM",
+    "municipality": "Kingston",
+    "iata_code": "KIN",
+    "icao_code": "MKJP",
+    "gps": [
+      17.935699462890625,
+      -76.7874984741211
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional de Cozumel",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Ciudad de Cozumel",
+    "iata_code": "CZM",
+    "icao_code": "MMCZ",
+    "gps": [
+      20.511425,
+      -86.930287
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional General Guadalupe Victoria",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Ciudad de Durango",
+    "iata_code": "DGO",
+    "icao_code": "MMDO",
+    "gps": [
+      24.125908,
+      -104.533904
+    ]
+  },
+  {
+    "name": "Guadalajara International Airport",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Guadalajara",
+    "iata_code": "GDL",
+    "icao_code": "MMGL",
+    "gps": [
+      20.523342,
+      -103.310108
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional Manuel Crescencio Rej\u00f3n",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Ciudad de M\u00e9rida",
+    "iata_code": "MID",
+    "icao_code": "MMMD",
+    "gps": [
+      20.933384,
+      -89.662621
+    ]
+  },
+  {
+    "name": "Benito Ju\u00e1rez International Airport",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Ciudad de M\u00e9xico",
+    "iata_code": "MEX",
+    "icao_code": "MMMX",
+    "gps": [
+      19.435137,
+      -99.071328
+    ]
+  },
+  {
+    "name": "Monterrey International Airport",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Monterrey",
+    "iata_code": "MTY",
+    "icao_code": "MMMY",
+    "gps": [
+      25.778521,
+      -100.106989
+    ]
+  },
+  {
+    "name": "General Rafael Buelna International Airport",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Mazatl\u00e0n",
+    "iata_code": "MZT",
+    "icao_code": "MMMZ",
+    "gps": [
+      23.161474,
+      -106.264572
+    ]
+  },
+  {
+    "name": "Puerto Vallarta International Airport",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Puerto Vallarta",
+    "iata_code": "PVR",
+    "icao_code": "MMPR",
+    "gps": [
+      20.679913,
+      -105.254391
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional de Los Cabos",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "San Jos\u00e9 del Cabo",
+    "iata_code": "SJD",
+    "icao_code": "MMSD",
+    "gps": [
+      23.151919,
+      -109.720731
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional San Felipe",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Mexicali",
+    "iata_code": "SFH",
+    "icao_code": "MMSF",
+    "gps": [
+      30.931996,
+      -114.80847
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional General Felipe \u00c1ngeles",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Mexico City",
+    "iata_code": "NLU",
+    "icao_code": "MMSM",
+    "gps": [
+      19.7357,
+      -99.0257
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional Gral. Abelardo Rodriguez",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Ciudad de Tijuana",
+    "iata_code": "TIJ",
+    "icao_code": "MMTJ",
+    "gps": [
+      32.545963,
+      -116.975856
+    ]
+  },
+  {
+    "name": "Aeropuerto Internacional de Canc\u00fan",
+    "continent": "NA",
+    "iso_country": "MX",
+    "municipality": "Canc\u00fan",
+    "iata_code": "CUN",
+    "icao_code": "MMUN",
+    "gps": [
+      21.039444,
+      -86.874304
+    ]
+  },
+  {
+    "name": "Tocumen International Airport",
+    "continent": "NA",
+    "iso_country": "PA",
+    "municipality": "Tocumen",
+    "iata_code": "PTY",
+    "icao_code": "MPTO",
+    "gps": [
+      9.07136,
+      -79.383499
+    ]
+  },
+  {
+    "name": "Guanacaste Airport",
+    "continent": "NA",
+    "iso_country": "CR",
+    "municipality": "Liberia",
+    "iata_code": "LIR",
+    "icao_code": "MRLB",
+    "gps": [
+      10.5933,
+      -85.544403
+    ]
+  },
+  {
+    "name": "Monse\u00f1or \u00d3scar Arnulfo Romero International Airport",
+    "continent": "NA",
+    "iso_country": "SV",
+    "municipality": "San Salvador (San Luis Talpa)",
+    "iata_code": "SAL",
+    "icao_code": "MSLP",
+    "gps": [
+      13.4409,
+      -89.055702
+    ]
+  },
+  {
+    "name": "Toussaint Louverture International Airport",
+    "continent": "NA",
+    "iso_country": "HT",
+    "municipality": "Port-au-Prince",
+    "iata_code": "PAP",
+    "icao_code": "MTPP",
+    "gps": [
+      18.58,
+      -72.292503
+    ]
+  },
+  {
+    "name": "Jos\u00e9 Mart\u00ed International Airport",
+    "continent": "NA",
+    "iso_country": "CU",
+    "municipality": "Havana",
+    "iata_code": "HAV",
+    "icao_code": "MUHA",
+    "gps": [
+      22.989200592041016,
+      -82.40910339355469
+    ]
+  },
+  {
+    "name": "Juan Gualberto Gomez International Airport",
+    "continent": "NA",
+    "iso_country": "CU",
+    "municipality": "Matanzas",
+    "iata_code": "VRA",
+    "icao_code": "MUVR",
+    "gps": [
+      23.034401,
+      -81.435303
+    ]
+  },
+  {
+    "name": "Owen Roberts International Airport",
+    "continent": "NA",
+    "iso_country": "KY",
+    "municipality": "George Town",
+    "iata_code": "GCM",
+    "icao_code": "MWCR",
+    "gps": [
+      19.292801,
+      -81.357697
+    ]
+  },
+  {
+    "name": "Lynden Pindling International Airport",
+    "continent": "NA",
+    "iso_country": "BS",
+    "municipality": "Nassau",
+    "iata_code": "NAS",
+    "icao_code": "MYNN",
+    "gps": [
+      25.039,
+      -77.466202
+    ]
+  },
+  {
+    "name": "Philip S. W. Goldson International Airport",
+    "continent": "NA",
+    "iso_country": "BZ",
+    "municipality": "Belize City",
+    "iata_code": "BZE",
+    "icao_code": "MZBZ",
+    "gps": [
+      17.539951,
+      -88.303556
+    ]
+  },
+  {
+    "name": "Faa'a International Airport",
+    "continent": "OC",
+    "iso_country": "PF",
+    "municipality": "Papeete",
+    "iata_code": "PPT",
+    "icao_code": "NTAA",
+    "gps": [
+      -17.553699,
+      -149.606995
+    ]
+  }
+]
