@@ -9,7 +9,7 @@ def wspolrzedne(napis: str) -> tuple[float, float]:
     return lat, lon
 
 def czy_duze(lotnisko: dict) -> bool:
-    return lotnisko.get('type') == 'large_airport'
+    return lotnisko.get('type') in ['large_airport', 'medium_airport']
 
 def moje_lotnisko(lotnisko: dict) -> dict:
     return {
