@@ -1,0 +1,20 @@
+---
+pomiary:
+- data: '2020-01-01'
+  pomiar: 20.0
+- comment: null
+  data: '2020-01-02'
+  pomiar: 20.0
+  skip: "yes"
+- data: '2020-01-03'
+  komentarz: cokolwiek mogę tu wpisać
+  pomiar: 20.0
+  skip: false
+wynik: OK
+komentarz: |
+    qwe
+    qweqwe
+    asd
+    asda
+    sd
+    sa
