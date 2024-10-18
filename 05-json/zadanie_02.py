@@ -7,6 +7,10 @@ EARTH_RADIUS_KM = 6371.0
 import json
 from math import radians, sin, cos, asin, sqrt
 
+class LotniskoNotFound(Exception):
+    """Nie znaleziono lotniska"""
+
+
 def haversine(coords1: tuple[float, float], coords2: tuple[float, float]) -> float:
     """
     Calculate the great circle distance in kilometers between two points 
@@ -31,8 +35,21 @@ def odleglosc_miedzy_lotniskami(lotnisko1: dict, lotnisko2: dict) -> float:
 
     return haversine(lotnisko1['gps'], lotnisko2['gps'])
 
+def odleglosc_miedzy_lotniskami_wg_nazwy(lot1: str, lot2: str) -> float:
+    """Odległość między lotniskami wg nazw"""
+
+    lotnisko1 = znajdz_lotnisko(lot1)
+    lotnisko2 = znajdz_lotnisko(lot2)
+
+    return odleglosc_miedzy_lotniskami(lotnisko1, lotnisko2)
+
 def znajdz_lotnisko(nazwa: str) -> dict:
     """Znajdź w "bazie danych" lotnisko o danym kodzie"""
 
-LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))
+    for lotnisko in LOTNISKA:
+        if nazwa not in [lotnisko['iata_code'], lotnisko['icao_code']]:
+            continue
+        return lotnisko
+    raise LotniskoNotFound
 
+LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))

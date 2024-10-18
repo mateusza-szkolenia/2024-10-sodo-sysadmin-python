@@ -77,3 +77,19 @@ def test_znajdz_lotnisko_WAW():
 
     assert isinstance(lotnisko, dict)
     assert lotnisko['iata_code'] == "WAW"
+
+def test_znajdz_lotnisko_EPWA():
+    lotnisko = zadanie_02.znajdz_lotnisko("EPWA")
+
+    assert isinstance(lotnisko, dict)
+    assert lotnisko['iata_code'] == "WAW"
+
+def test_znajdz_nieistniejace_lotnisko():
+    with pytest.raises(zadanie_02.LotniskoNotFound):
+        zadanie_02.znajdz_lotnisko("XYZ")
+
+def test_odleglosc_miedzy_lotniskami_wg_nazwy_WAW_GDN():
+
+    odleglosc = zadanie_02.odleglosc_miedzy_lotniskami_wg_nazwy("WAW", "GDN")
+
+    assert 300.0 < odleglosc < 500.0
