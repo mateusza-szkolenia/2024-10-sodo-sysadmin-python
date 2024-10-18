@@ -47,9 +47,19 @@ def znajdz_lotnisko(nazwa: str) -> dict:
     """Znajdź w "bazie danych" lotnisko o danym kodzie"""
 
     for lotnisko in LOTNISKA:
-        if nazwa not in [lotnisko['iata_code'], lotnisko['icao_code']]:
-            continue
-        return lotnisko
+        if nazwa in [lotnisko['iata_code'], lotnisko['icao_code']]:
+            return lotnisko
     raise LotniskoNotFound
+
+def lotniska_w_promieniu(lotnisko: dict, promien: float) -> list[dict]:
+    """Znajdź lotniska w danym promieniu"""
+
+    wynik = []
+
+    for spr_lot in LOTNISKA:
+        odleglosc = odleglosc_miedzy_lotniskami(lotnisko, spr_lot)
+        if odleglosc <= promien:
+            wynik.append(spr_lot)
+    return wynik
 
 LOTNISKA = json.load(open(DANE, 'r', encoding='utf-8'))

@@ -93,3 +93,16 @@ def test_odleglosc_miedzy_lotniskami_wg_nazwy_WAW_GDN():
     odleglosc = zadanie_02.odleglosc_miedzy_lotniskami_wg_nazwy("WAW", "GDN")
 
     assert 300.0 < odleglosc < 500.0
+
+def test_lotniska_w_promieniu_1000_od_WAW():
+    lotnisko = zadanie_02.znajdz_lotnisko("WAW")
+    lotniska = zadanie_02.lotniska_w_promieniu(lotnisko, 1000.0)
+
+    assert len(lotniska) > 1, "Za mało"
+    assert len(lotniska) < len(zadanie_02.LOTNISKA), "Wszystkie"
+
+def test_lotniska_w_promieniu_100_od_WAW():
+    lotnisko = zadanie_02.znajdz_lotnisko("WAW")
+    lotniska = zadanie_02.lotniska_w_promieniu(lotnisko, 100.0)
+
+    assert len(lotniska) == 4, "Zła liczba"
